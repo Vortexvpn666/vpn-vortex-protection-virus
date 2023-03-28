@@ -1,5 +1,5 @@
 {
-    "Version": "11",
+    "Version": "12",
     "ReleaseNotes": "Gracias por usar mis aplicaciones rnrnSaludos BY : ⸸͢ђэ เя๏и ¢๏яρรэ",
     "Sms": "https://techvpn.ml/update/1/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/Vortexvpn666/vpn-vortex-protection-virus/main/Vortex%20vpn%20protection%20virus",
@@ -33,7 +33,7 @@
             "Name": "Tigo limitador ",
             "TYPE": "free",
             "FLAG": "br.png",
-            "ServerIP": "172.64.133.15",
+            "ServerIP": "cf-api.online-metrix.net",
             "CheckUser": "http://172.173.228.59:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -55,8 +55,8 @@
         {
             "Name": "TIGO LIMITADOR ",
             "FLAG": "vivo",
-            "Payload": "CONNECT / HTTP/1.1\nHost:cf-api.online-metrix.net \n\n[split]UNLOCK /? HTTP/1.1\nHost:iron1.mrsatan.tk \r\nUpgrade: Websocket\r\n\r\n
-            "TlsIP": "use.fontawesome.com",
+            "Payload": "CONNECT / HTTP/1.1\nHost:cf-api.online-metrix.net \n\n[split]UNLOCK /? HTTP/1.1\nHost:iron1.mrsatan.tk \r\nUpgrade: Websocket\r\n\r\n"
+            "TlsIP": "cf-api.online-metrix.net",
             "ProxyIP": "",
             "ProxyPort": "80",
             "Info": "Direct"
