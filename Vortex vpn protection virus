@@ -1,5 +1,5 @@
 {
-    "Version": "8",
+    "Version": "10",
     "ReleaseNotes": "Gracias por usar mis aplicaciones rnrnSaludos BY : ⸸͢ђэ เя๏и ¢๏яρรэ",
     "Sms": "https://techvpn.ml/update/1/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/Vortexvpn666/vpn-vortex-protection-virus/main/Vortex%20vpn%20protection%20virus",
@@ -55,10 +55,9 @@
         {
             "Name": "TIGO LIMITADOR ",
             "FLAG": "vivo",
-            "Payload": "CONNECT / HTTP/1.1nHost:cf-api.online-metrix.net nn[split]UNLOCK /? HTTP/1.1nHost:iron1.mrsatan.tk rnUpgrade: Websocketrnrn",
-            "SNI": "",
+            "Payload": "CONNECT / HTTP/1.1\nHost:cf-api.online-metrix.net \n\n[split]UNLOCK /? HTTP/1.1\nHost:iron1.mrsatan.tk \r\nUpgrade: Websocket\r\n\r\n
             "TlsIP": "",
-            "ProxyIP": "172.64.133.15",
+            "ProxyIP": "",
             "ProxyPort": "80",
             "Info": "Direct"
         }
