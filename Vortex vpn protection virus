@@ -1,5 +1,5 @@
 {
-    "Version": "6",
+    "Version": "8",
     "ReleaseNotes": "Gracias por usar mis aplicaciones rnrnSaludos BY : ⸸͢ђэ เя๏и ¢๏яρรэ",
     "Sms": "https://techvpn.ml/update/1/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/Vortexvpn666/vpn-vortex-protection-virus/main/Vortex%20vpn%20protection%20virus",
@@ -58,7 +58,7 @@
             "Payload": "CONNECT / HTTP/1.1nHost:cf-api.online-metrix.net nn[split]UNLOCK /? HTTP/1.1nHost:iron1.mrsatan.tk rnUpgrade: Websocketrnrn",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "",
+            "ProxyIP": "172.64.133.15",
             "ProxyPort": "80",
             "Info": "Direct"
         }
